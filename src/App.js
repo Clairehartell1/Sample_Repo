@@ -119,7 +119,7 @@ class App extends Component {
 
         <div class="footer">
             <div className="FooterCard">
-              <div className="Description">iPhone XR Gin Bilog</div>
+              <div className="Description">iPhone XR </div>
             </div>
         </div>
 
